@@ -1,0 +1,49 @@
+/* reset */
+
+/* full page */
+
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Patua One', cursive;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+h3 {
+    font-size: 35px;
+    text-transform: capitalize;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+footer .footer {
+    text-align: right;
+    font-size: 12px;
+    margin: 10px;
+}
+
+header {
+    padding: 10px;
+}
+
+section {
+    padding: 10px;
+}
